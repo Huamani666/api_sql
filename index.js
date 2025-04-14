@@ -7,7 +7,7 @@ const PORT = 3000;
 const config = {
     user: 'sa',
     password: '123456',
-    server: 'DESKTOP-HBV87UV', // o IP de tu servidor
+    server: '190.233.181.206', // o IP de tu servidor
     database: 'RestauranteDb',
     tabla: 'Productos',
     options: {
